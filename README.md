@@ -11,3 +11,7 @@ this my first flask crud app using the flask and bootstrap
 7. goto python console and from app import db hit enter and db.create_all() hit enter it will connect to database create table 
 
 ![title](https://github.com/rajendraprasad10/flaskcrudapp/blob/master/flaskcrupimg/1.png)
+![title](https://github.com/rajendraprasad10/flaskcrudapp/blob/master/flaskcrupimg/2.png)
+![title](https://github.com/rajendraprasad10/flaskcrudapp/blob/master/flaskcrupimg/3.png)
+![title](https://github.com/rajendraprasad10/flaskcrudapp/blob/master/flaskcrupimg/4.png)
+![title](https://github.com/rajendraprasad10/flaskcrudapp/blob/master/flaskcrupimg/5.png)
