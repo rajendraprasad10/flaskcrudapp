@@ -1,6 +1,7 @@
 from flask import Flask,render_template, redirect, flash, request,url_for
 from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
+# key for initlize
 app.secret_key = 'Secrete_key'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:''@localhost/cruddata'
 # for connecting with this database called mysqlphpadmin we must download this pip install Flask-MySQLdb for flask
